@@ -12,8 +12,7 @@
 
 
 ## ❤️ Accomplishments
-- 🧸Member of 4th UNIS (2023. 08 ~)
-- 🪄Frontend Developer of UNIS (2023. 08 ~)
+- 🧸Member of 5th UMC (2023. 09 ~)
 - ✍️Participation in ICPC Sinchon (2023. 07 ~ 2023. 08)
 - 🎖️Won the Fibonacci Award at ICPC Sinchon (2023. 08)
 
