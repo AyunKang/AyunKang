@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BC7D2E&background=FFE5AD27&center=true&vCenter=true&width=450&height=80&lines=Front-end+web+developer;Always+studying+passionately" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BC7D2E&background=FFE5AD27&center=true&vCenter=true&width=450&height=80&lines=Backend+developer;Always+studying+passionately" alt="Typing SVG" /></a>
 </p>
 
 
@@ -7,12 +7,12 @@
 
 ## Hi there 👋 I'm Ayun Kang
 - 🖥️ I'm studying Communication Media and Computer Science at Ewha Womans University.
-- 📱 I'm learning JavaScript, HTML, CSS, and React.
+- 📱 I'm learning Python, Django,and Javascript.
 - 📧 Please contact me through ![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)
 
 
 ## ❤️ Accomplishments
-- 🧸Member of 5th UMC (2023. 09 ~)
+- 🧸12th Member of Ewha Chain (2023.09 ~)
 - ✍️Participation in ICPC Sinchon (2023. 07 ~ 2023. 08)
 - 🎖️Won the Fibonacci Award at ICPC Sinchon (2023. 08)
 
