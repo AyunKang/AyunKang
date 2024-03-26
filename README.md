@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=BC7D2E&background=FFE5AD27&center=true&vCenter=true&width=450&height=80&lines=Backend+developer;Always+studying+passionately" alt="Typing SVG" /></a>
-</p>
-
-
-
-
 ## Hi there 👋 I'm Ayun Kang
 - 🖥️ I'm studying Communication Media and Computer Science at Ewha Womans University.
 - 📱 I'm learning Python, Django,and Javascript.
