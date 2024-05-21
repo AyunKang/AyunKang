@@ -5,7 +5,8 @@
 
 
 ## ❤️ Accomplishments
-- 🧸12th Member of Ewha Chain (2023.09 ~)
+- 💎10th Member of CURG (2024. 02 ~ )
+- 🧸12th Member of Ewha Chain (2023.09 ~ 2024. 01)
 - ✍️Participation in ICPC Sinchon (2023. 07 ~ 2023. 08)
 - 🎖️Won the Fibonacci Award at ICPC Sinchon (2023. 08)
 
